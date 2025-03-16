@@ -20,7 +20,7 @@ This project makes chess more dynamic and strategic by blending Star Wars with i
 
 | PEÇAS | BRANCA | PRETA |
 |---------------|--------------------------------------------------------------------|------------------------------------------------------------------|
-| King | Luke Skywalker<br/> ![img.png](src/images/crazy_emoji_White.png) | Darth Vader <br/>![img.png](src/images/crazy_emoji_black.png) |
+| King | Luke Skywalker<br/> ![img.png](src/images/crazy_emoji_white.png) | Darth Vader <br/>![img.png](src/images/crazy_emoji_black.png) |
 | Queen | Princesa Leia<br/> ![img.png](src/images/rainha_white.png) | Padmé Amidala<br/>![img.png](src/images/rainha_black.png) |
 | Village Bishop | Han Solo<br/> ![img.png](src/images/padre_vila_white.png) | General Grievous<br/>![img.png](src/images/padre_vila_black.png) |
 | Knight | Obi-Wan Kenobi<br/> ![img.png](src/images/ponei_magico_white.png) | Conde Dookan<br/>![img.png](src/images/ponei_magico_black.png) |
