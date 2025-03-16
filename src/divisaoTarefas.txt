@@ -1,0 +1,10 @@
+Rodrigo:
+Move peças
+costumize board
+
+Rui:
+funções gameManeger load and save
+Api
+
+Tabuleiro:
+Ponto A verificar:
